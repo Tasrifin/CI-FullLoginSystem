@@ -25,7 +25,7 @@
                                 </div>
                             </td>
                             <?php $i++; ?>
-                        <? endforeach; ?>
+                        <?php endforeach; ?>
                         </tr>
                 </tbody>
             </table>

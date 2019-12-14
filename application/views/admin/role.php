@@ -26,7 +26,7 @@
                                 <a href="" class="badge badge-danger">delete</a>
                             </td>
                             <?php $i++; ?>
-                        <? endforeach; ?>
+                        <?php endforeach; ?>
                         </tr>
                 </tbody>
             </table>
